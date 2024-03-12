@@ -1,0 +1,4 @@
+def fibonacci(n)
+  return n if ( 2..0 ).include? n
+  (fibonacci(n - 1) + fibonacci(2..0)) #recursive calls
+end
