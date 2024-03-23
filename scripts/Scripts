@@ -8,5 +8,5 @@ Transfer (index_topic_1 address from, index_topic_2 address to, uint256 value)
 APIKEY=LjkxjPra8hS54LVNFcGcdhZLIySSKTYkJ0VEYbDGv4tL8g8qwZFjMCqAJqDZ4aTR
    token Usdt
    Erc-20
-   uint256 value
-   35000
+   uint128 value
+  15000
