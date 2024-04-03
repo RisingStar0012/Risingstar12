@@ -5,16 +5,16 @@
 {
    "Usdt:Erc-20"
   "transfer amount:$1,520,000,115"
-     "transfer_from_ethereum_Adress_Too _UID"
+     "transfer_from_ethereum_Adress_Too _self_XID"
      "send_from"
      "0x47ac0Fb4F2D84898e4D9E7b4DaB3C24507a6D503"
      "to"
-     "uid:pratik121212"
+     "Xid:pratik121212"
      
-     'inputs':uid:pratik121212
+     'inputs':Xid:pratik121212
       "usdt:$1,520,000,115"
      "added_amount_in_Portfolio:usdt$1,520,000,115"
-  "view_Type:Deposited_In app:WaxirX"
+  "view_Type:Deposited_In_app:WaxirX"
    "internal_transfer"
 " nmp:String"
       
