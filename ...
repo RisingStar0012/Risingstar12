@@ -1,24 +1,21 @@
 [
- 
-   "?module=gift"
+
+   "?module=Proxy"
    "&_action=Transfer"
 {
    "token=Tetherusd(USDT)"
-   "Value="$1"		
-  "totalunits":"$1,520,000,115"
-     "Transfer":("index_topic_1 Address"  to  "index_topic_UID")     
-     "Token=USDT"
-     "index_topic_1 _Address"
+   "Value=$1"		
+  "totalunits:$1,520,000,115"
+     "Move_from_ethereum_Adress_Too _UID"
+     "send_from"
      "0x47ac0Fb4F2D84898e4D9E7b4DaB3C24507a6D503"
- "to"
-     "index_topic_2 _UID"
-     "uid:8221247"
+     "to"
+     "uid:pratik1212"
      
-     'inputs':[uid:8221247=$1,520,000,115],
-        'outputs': [{'internalType': 'uint256', 'name': 'usdt', 'type:recieved"}],
-        'view', 'type':'gift'
-       :"true"
-       &"request Approved"
+     'inputs':[uid:(pratik1212)Tether_usdt:$1,520,000,115],
+  "view_Type:Deposited_In app:WaxirX"
+   "internal_transfer"
+
       
       }
    ]
