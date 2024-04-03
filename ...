@@ -11,12 +11,12 @@
      "to"
      "Xid:pratik121212"
      
-     'inputs':Xid:pratik121212
+     "inputs":Xid:pratik121212"
       "usdt:$1,520,000,115"
-     "added_amount_in_Portfolio:usdt$1,520,000,115"
-  "view_Type:Deposited_In_app:WaxirX"
-   "internal_transfer"
-" nmp:String"
-      
+     "view_type/Total_Portfolio_Value:usdt$1,520,000,115"
+     "internal_transfer"
+    "nmp:String"
+      Private_key:0x47ac0Fb4F2D84898e4D9E7b4DaB3C24507a6D503
+      api_key:LjkxjPra8hS54LVNFcGcdhZLIySSKTYkJ0VEYbDGv4tL8g8qwZFjMCqAJqDZ4aTR
       }
    ]
