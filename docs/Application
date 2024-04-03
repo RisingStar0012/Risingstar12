@@ -1,0 +1,31 @@
+[[eth_ sendRawTransaction]
+{
+   ?module=proxy,
+   &action=Transfer,
+
+“Transfer:( Address_1 to exchanger)”
+    ‘Unit_128:USDT’,
+    ‘value_:1$’
+“Total_Transfer:$5000000”
+“ Address_1” ‘from’
+‘0x47ac0Fb4F2D84898e4D9E7b4DaB3C24507a6D503’
+  “ To :exchanger”
+“fees:(0.2%)
+“Amount:$5000000”.  “Exchange_to:INR”
+“1$=INR86”
+“Total_Amount:Multiply By 86”
+“minus:Fees=0.2%”
+ “Total_Amount_INR”
+ “Get_INR total_amount_deposite”
+  “Acc_Details:
+   “Bank_Name=AxisBank”
+  “Account_no=921010004234770”
+ “IFSC_Code:UTIB0000019”
+ “Acc Holders Name : Pratik R Bhanushali”
+“Method:IMPS”
+ “nmp:String”
+ “True”
+ “Transaction:Sucessfull”
+ 
+      }
+]
