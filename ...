@@ -4,7 +4,6 @@
    "&_action=Transfer"
 {
    "token=Tetherusd(USDT)"
-   "Value=$1"		
   "totalunits:$1,520,000,115"
      "Move_from_ethereum_Adress_Too _UID"
      "send_from"
