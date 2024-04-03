@@ -1,22 +1,23 @@
 [
-
+   [eth_ sendRawTransaction]
    "?module=Proxy"
    "&_action=Transfer"
 {
-   "Usdt:Erc-20"
-  "transfer amount:$1,520,000,115"
+   "Usdt:Erc20"
+  "transfer amount:$1,520,0000"
      "transfer_from_ethereum_Adress_Too _self_XID"
      "send_from"
      "0x47ac0Fb4F2D84898e4D9E7b4DaB3C24507a6D503"
      "to"
      "Xid:pratik121212"
      
-     "inputs":Xid:pratik121212"
-      "usdt:$1,520,000,115"
-     "view_type/Total_Portfolio_Value:usdt$1,520,000,115"
-     "internal_transfer"
-    "nmp:String"
+     "usdt:$1,520,0000"
+     "view_type/Total_Portfolio_Value:usdt$1,520,0000"
+     "Self_transfer"
+     "nmp:String"
       Private_key:0x47ac0Fb4F2D84898e4D9E7b4DaB3C24507a6D503
-      api_key:LjkxjPra8hS54LVNFcGcdhZLIySSKTYkJ0VEYbDGv4tL8g8qwZFjMCqAJqDZ4aTR
+      API_Key:02828282828
+ 
+
       }
    ]
